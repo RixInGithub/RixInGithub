@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love Scratch, Replit, Discord, and this thing you are NOW.
+I love Scratch, Replit, Discord, and this website you are in NOW.
 
 ```json
 {
