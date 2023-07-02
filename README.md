@@ -7,7 +7,7 @@ I love Scratch, Replit, Discord, and this website you are in NOW.
 	"contacts": [
 		"scratch": "RixTheTyrunt",
 		"replit": "RixTheTyrunt",
-		"discord": "Rivertail#2990"
+		"discord": "rixthetyrunt"
 	]
 }
 ```
