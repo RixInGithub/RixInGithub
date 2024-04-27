@@ -17,9 +17,6 @@
 Just in case if this doesn't work, have [a link](https://gradientos.neocities.org/wasm/)
 
 ## Image
-### HTML
-<img src="gradOS.svg" alt="GradientOS">
-### Markdown
 ![GradientOS](gradOS.svg)
 ## `<object>`
 <object src="gradOS.svg" alt="GradientOS"></object>
