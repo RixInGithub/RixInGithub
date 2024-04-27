@@ -17,6 +17,6 @@
 Just in case if this doesn't work, have [a link](https://gradientos.neocities.org/wasm/)
 
 ## Image
-![GradientOS](gradOS.svg)
+![GradientOS](https://github.com/RixInGithub/RixInGithub/raw/main/gradOS.svg)
 ## `<object>`
-<object src="gradOS.svg" alt="GradientOS"></object>
+<object src="https://github.com/RixInGithub/RixInGithub/raw/main/gradOS.svg" alt="GradientOS"></object>
