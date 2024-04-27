@@ -12,3 +12,14 @@
 
 |![My stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RixInGithub)|![Commonly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RixInGithub)|
 |-|-|
+
+# Try out GradientOS
+Just in case if this doesn't work, have [a link](https://gradientos.neocities.org/wasm/)
+
+## Image
+### HTML
+<img src="gradOS.svg" alt="GradientOS">
+### Markdown
+![GradientOS](gradOS.svg)
+## `<object>`
+<object src="gradOS.svg" alt="GradientOS"></object>
