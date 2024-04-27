@@ -16,4 +16,6 @@
 # Try out GradientOS
 Just in case if this doesn't work, have [a link](https://gradientos.neocities.org/wasm/)
 
-<img src="https://raw.githubusercontent.com/RixInGithub/RixInGithub/master/gradOS.svg" width="384" height="auto">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RixInGithub/RixInGithub/master/gradOS.svg" width="384" height="auto">
+</div>
