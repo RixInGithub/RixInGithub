@@ -13,9 +13,12 @@
 |![My stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RixInGithub)|![Commonly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RixInGithub&layout=compact)|
 |-|-|
 
-# Try out GradientOS
-Just in case if this doesn't work, have [a link](https://gradientos.neocities.org/)
+<div align="center"><h1>Contribute to the global text file! (WIP)</h1></div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RixInGithub/RixInGithub/main/gradOS.svg" width="384" height="auto">
-</div>
+<!--HTXTSTART-->
+```
+
+```
+
+See [this](/mods.md) to see modifier key status for you.
+<table><tr align="center"><td>↹</td><td>Caps</td><td>Shft</td><td>⇽</td></tr><tr align="center"><td colspan="2">h</td><td colspan="2">Enter</td></tr></table>
