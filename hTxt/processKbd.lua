@@ -70,7 +70,7 @@ function main()
 	reconstructed = b4.."<!--HTXT-->"..b4Txt.."```\n"..txt.."\n```"..afterTxt.."<!--HTXT-->"..after
 	-- reconstructed is new README.md
 	rmIO = io.open("README.md", "w")
-	-- rmIO:write(reconstructed)
+	rmIO:write(reconstructed)
 	rmIO:close()
 	modsIO = io.open("mods.md", "w")
 	modsIO:write(b4ModsData)
