@@ -83,7 +83,7 @@ function main()
 		::continue1::
 	end
 	if meCaps or meShift then
-		modsIO:write(string.format("\n|@%s|%s|%s|", issUsr, meCaps, meShift))
+		modsIO:write(string.format("\n|@%s|%s|%s|", issUsr, (meCaps and "y") or "n", (meShift and "y") or "n"))
 	end
 	print(({closeReq:go()})[2]:get_body_as_string())
 end
