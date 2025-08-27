@@ -22,7 +22,7 @@ function main()
 	hdrs = require("http.headers").new()
 	hdrs:append(":method", "POST")
 	hdrs:append("content-type", "application/json")
-	hdrs:append("authorization", "Bearer "..os.getenv("GITHUB_TOKEN"))
+	hdrs:append("authorization", "Bearer "..os.getenv("GH_TOKEN"))
 	
 	closeReq = http.new_from_uri("https://api.github.com/graphql", hdrs)
 	closeReq:set_body(gql)
