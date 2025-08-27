@@ -20,7 +20,7 @@ function main()
 	})
 	
 	hdrs = require("http.headers").new()
-	hdrs:append(":method", "POST")
+	-- hdrs:append(":method", "POST")
 	hdrs:append("content-type", "application/json")
 	hdrs:append("authorization", "Bearer "..os.getenv("GH_TOKEN"))
 	
