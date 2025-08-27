@@ -13,12 +13,13 @@
 |![My stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RixInGithub)|![Commonly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RixInGithub&layout=compact)|
 |-|-|
 
-<div align="center"><h1>Contribute to the global text file! (WIP)</h1></div>
+<div align="center"><h1>Contribute to the global text file! (BETA)</h1></div>
 
-<!--HTXTSTART-->
+<!--HTXT-->
 ```
 
 ```
 
 See [this](/mods.md) to see modifier key status for you.
-<table><tr align="center"><td>↹</td><td>Caps</td><td>Shft</td><td>⇽</td></tr><tr align="center"><td colspan="2">h</td><td colspan="2">Enter</td></tr></table>
+<table><tr align="center"><td><a href="https://github.com/RixInGithub/RixInGithub/issues/new?title=kbd:0&body=plz+press+create">↹</a></td><td><a href="https://github.com/RixInGithub/RixInGithub/issues/new?title=kbd:1&body=plz+press+create">Caps</a></td><td><a href="https://github.com/RixInGithub/RixInGithub/issues/new?title=kbd:2&body=plz+press+create">Shft</a></td><td><a href="https://github.com/RixInGithub/RixInGithub/issues/new?title=kbd:3&body=plz+press+create">⇽</a></td></tr><tr align="center"><td colspan="2"><a href="https://github.com/RixInGithub/RixInGithub/issues/new?title=kbd:4&body=plz+press+create">h</a></td><td colspan="2"><a href="https://github.com/RixInGithub/RixInGithub/issues/new?title=kbd:5&body=plz+press+create">Enter</a></td></tr></table>
+<!--HTXT-->

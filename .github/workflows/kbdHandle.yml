@@ -1,0 +1,30 @@
+name: global keyboard handler
+
+on:
+    issues:
+        types: [opened]
+
+permissions:
+    contents: write
+
+jobs:
+    pieceofshit:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+            - name: get lua
+              uses: ljmf00/setup-lua
+              with:
+                lua-version: "5.3"
+                install-luarocks: "true"
+            - name: installeth deps
+              run: |
+                  deps=$(cat hTxt/luaDeps.txt)
+                  for d in $deps; do luarocks install --local "$d"; done
+                  eval "$(luarocks path --bin)"
+                  lua hTxt/processKbd.lua "${{ github.event.issue.id }}" "${{ github.event.issue.title }}" "${{ github.event.issue.user.login }}"
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                  git add .
+                  git commit -m "@${{ github.event.issue.user.login }} pressed a key"
+                  git push
