@@ -86,7 +86,7 @@ function main()
 	if meCaps or meShift then
 		modsIO:write(string.format("\n|@%s|%s|%s|", issUsr, meCaps, meShift))
 	end
-	print(closeReq:go())
+	print(({closeReq:go()})[2]:get_body_as_string())
 end
 
 main()
