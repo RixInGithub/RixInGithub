@@ -10,7 +10,7 @@ function main()
 	issKey = issKey + 0
 
 	gql = dkjson.encode({
-		query = "mutation H($input:CloseIssueInput!){closeIssue(input:$input)}",
+		query = "mutation H($input:CloseIssueInput!){closeIssue(input:$input) {issue {id}}}",
 		variables = {
 			input = {
 				issueId = issId.."", -- living the days of number+"" amiright?
@@ -20,8 +20,8 @@ function main()
 	})
 	
 	hdrs = require("http.headers").new()
+	hdrs:append(":method", "POST") 
 	closeReq = http.new_from_uri("https://api.github.com/graphql", hdrs)
-	hdrs:upsert(":method", "POST") 
 	hdrs:append("content-type", "application/json")
 	hdrs:append("authorization", "Bearer "..os.getenv("GH_TOKEN"))
 	for k,v in hdrs:each() do print(k,v) end
@@ -86,7 +86,7 @@ function main()
 	if meCaps or meShift then
 		modsIO:write(string.format("\n|@%s|%s|%s|", issUsr, meCaps, meShift))
 	end
-	closeReq:go()
+	print(closeReq:go())
 end
 
 main()
