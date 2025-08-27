@@ -1,8 +1,7 @@
 function main()
 	dkjson = require("dkjson")
 	http = require("http.request")
-	issId, issTtl, issUsr = table.unpack(arg)
-	issId = tonumber(issId)
+	issId, issTtl, issUsr = table.unpack(arg) -- btw issId is actually issue node id now cuz graphql dislikes the idea of having an issue number
 	issKey = issTtl:match("^kbd:(%d+)$")
 	if issKey == nil then -- its up to me to handle (some ppl are stupid)
 		return
@@ -13,7 +12,7 @@ function main()
 		query = "mutation H($input:CloseIssueInput!){closeIssue(input:$input) {issue {id}}}",
 		variables = {
 			input = {
-				issueId = issId.."", -- living the days of number+"" amiright?
+				issueId = issId,
 				stateReason = "COMPLETED"
 			}
 		}

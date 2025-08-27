@@ -26,7 +26,8 @@ jobs:
                   eval "$(luarocks path --bin)"
             - name: runeth
               run: |
-                  lua hTxt/processKbd.lua "${{ github.event.issue.number }}" "${{ github.event.issue.title }}" "${{ github.event.issue.user.login }}"
+                  issNodeId = $(curl -s "https://api.github.com/repos/RixInGithub/RixInGithub/issues/${{ github.event.issue.number }}" | jq -r ".node_id")
+                  lua hTxt/processKbd.lua "$issNodeId" "${{ github.event.issue.title }}" "${{ github.event.issue.user.login }}"
                   git config user.name "github-actions[bot]"
                   git config user.email "github-actions[bot]@users.noreply.github.com"
                   git add .
