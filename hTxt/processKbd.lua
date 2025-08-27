@@ -23,6 +23,7 @@ function main()
 	-- hdrs:append(":method", "POST")
 	hdrs:append("content-type", "application/json")
 	hdrs:append("authorization", "Bearer "..os.getenv("GH_TOKEN"))
+	print(":method is NOT included")
 	
 	closeReq = http.new_from_uri("https://api.github.com/graphql", hdrs)
 	closeReq:set_body(gql)
