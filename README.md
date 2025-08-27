@@ -13,7 +13,7 @@
 |![My stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RixInGithub)|![Commonly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RixInGithub&layout=compact)|
 |-|-|
 
-<div align="center"><h1>Contribute to the global text file! (BETA)</h1></div>
+<div align="center"><h1>Contribute to the global text file!</h1></div>
 
 <!--HTXT-->
 ```
