@@ -17,7 +17,7 @@
 
 <!--HTXT-->
 ```
-Hh	h
+Hh	hH
 ```
 
 See [this](/mods.md) to see modifier key status for you.
