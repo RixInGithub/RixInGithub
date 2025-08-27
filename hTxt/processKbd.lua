@@ -20,10 +20,11 @@ function main()
 	})
 	
 	hdrs = require("http.headers").new()
-	hdrs:append(":method", "POST")
 	closeReq = http.new_from_uri("https://api.github.com/graphql", hdrs)
+	hdrs:upsert(":method", "POST") 
 	hdrs:append("content-type", "application/json")
 	hdrs:append("authorization", "Bearer "..os.getenv("GH_TOKEN"))
+	for k,v in hdrs:each() do print(k,v) end
 	closeReq:set_body(gql)
 	
 	rmIO = io.open("README.md", "r")
