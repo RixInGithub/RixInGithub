@@ -65,7 +65,7 @@ function main()
 			txt = txt:sub(1,-2)
 		end
 	end
-	if ins ~= "" then
+	if issKey == 4 then
 		meShift = false
 	end
 	txt = txt .. ins -- if we pressed a char that isnt supposed to be printed, simply concats nothing. makes sure data is a string, idfk
