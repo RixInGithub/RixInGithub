@@ -65,6 +65,9 @@ function main()
 			txt = txt:sub(1,-2)
 		end
 	end
+	if ins ~= "" then
+		meShift = false
+	end
 	txt = txt .. ins -- if we pressed a char that isnt supposed to be printed, simply concats nothing. makes sure data is a string, idfk
 	reconstructed = b4.."<!--HTXT-->"..b4Txt.."```\n"..txt.."\n```"..afterTxt.."<!--HTXT-->"..after
 	-- reconstructed is new README.md
