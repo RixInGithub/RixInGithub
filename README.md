@@ -18,7 +18,7 @@
 <!--HTXT-->
 ```
 H
-
+h
 ```
 
 See [this](/mods.md) to see modifier key status for you.
