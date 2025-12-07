@@ -1,5 +1,5 @@
 # Hi there 👋
-<!-- ![Notepad++](https://img.shields.io/badge/Notepad++-grey.svg?logo=notepad%2B%2B&logoColor=black&labelColor=90e59a) -->
+![xed](https://img.shields.io/badge/xed-grey.svg)
 ![Render](https://img.shields.io/badge/Render-grey.svg?logo=render&logoColor=white&labelColor=black)
 ![Inkscape](https://img.shields.io/badge/Inkscape-grey.svg?logo=inkscape&logoColor=white&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-grey.svg?logo=python&logoColor=blue&labelColor=ffd43b)
