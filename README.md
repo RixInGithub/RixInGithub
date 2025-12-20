@@ -1,4 +1,4 @@
-# Hi there 👋
+<div align="center"><h1>Welcome to @RixInGithub</h1></div>
 ![xed](https://img.shields.io/badge/xed-grey.svg)
 ![Render](https://img.shields.io/badge/Render-grey.svg?logo=render&logoColor=white&labelColor=black)
 ![Inkscape](https://img.shields.io/badge/Inkscape-grey.svg?logo=inkscape&logoColor=white&labelColor=black)
