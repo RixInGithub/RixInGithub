@@ -21,7 +21,7 @@
 ```
 H
 hHHhhhhh
-h	
+h	h
 ```
 
 See [mods.md](/mods.md) to see your modifier key status.
