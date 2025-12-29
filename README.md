@@ -15,7 +15,7 @@
 |![My stats](https://github-readme-stats.vercel.app/api?username=RixInGithub)|![Commonly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RixInGithub&layout=compact)|
 |-|-|
 
-# Contribute to the global text file!
+## Contribute to the global text file!
 
 <!--HTXT-->
 ```
