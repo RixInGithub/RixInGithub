@@ -12,7 +12,7 @@
 ![Scratch](https://img.shields.io/badge/Scratch-grey.svg?logo=scratch&logoColor=white&labelColor=855cd6)
 ![Lua](https://img.shields.io/badge/Lua-grey.svg?logo=lua&logoColor=000080&labelColor=white)
 ![Mint Linux](https://img.shields.io/badge/Mint%20Linux-grey.svg?logo=linuxmint&logoColor=white&labelColor=86be43)
-![Mi A2](https://img.shields.io/badge/Mi%20A2-grey.svg?logo=xiaomi&logoColor=white&labelColor=ff6900)
+![Mi A2](https://img.shields.io/badge/Redmi%20Note%209%20Pro-grey.svg?logo=xiaomi&logoColor=white&labelColor=ff6900)
 
 |![My stats](https://github-readme-stats.vercel.app/api?username=RixInGithub)|![Commonly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RixInGithub&layout=compact)|
 |-|-|
