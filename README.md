@@ -2,13 +2,15 @@
 
 ## Badges
 ![Notepad++](https://img.shields.io/badge/Notepad++-grey.svg?logo=notepad%2B%2B&logoColor=black&labelColor=90e59a)
-![Render](https://img.shields.io/badge/Render-grey.svg?logo=render&logoColor=white&labelColor=black)
-![Inkscape](https://img.shields.io/badge/Inkscape-grey.svg?logo=inkscape&logoColor=white&labelColor=black)
+![Render](https://img.shields.io/badge/Render-grey.svg?logo=render&logoColor=black&labelColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-grey.svg?logo=inkscape&logoColor=black&labelColor=white)
+![Godot](https://img.shields.io/badge/Godot-grey.svg?logo=godotengine&logoColor=478cbf&labelColor=white)
+![yargine](https://img.shields.io/badge/yargine-grey.svg)
 ![Python](https://img.shields.io/badge/Python-grey.svg?logo=python&logoColor=blue&labelColor=ffd43b)
 ![C](https://img.shields.io/badge/C-grey.svg?logo=c&logoColor=white&labelColor=00599c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey.svg?logo=javascript&logoColor=f7dF1e&labelColor=323330)
 ![Scratch](https://img.shields.io/badge/Scratch-grey.svg?logo=scratch&logoColor=white&labelColor=855cd6)
-![Lua](https://img.shields.io/badge/Lua-grey.svg?logo=lua&logoColor=white&labelColor=000080)
+![Lua](https://img.shields.io/badge/Lua-grey.svg?logo=lua&logoColor=000080&labelColor=white)
 ![Mint Linux](https://img.shields.io/badge/Mint%20Linux-grey.svg?logo=linuxmint&logoColor=white&labelColor=86be43)
 ![Mi A2](https://img.shields.io/badge/Mi%20A2-grey.svg?logo=xiaomi&logoColor=white&labelColor=ff6900)
 
