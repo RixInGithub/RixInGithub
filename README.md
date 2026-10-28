@@ -1,6 +1,6 @@
-<div align="center"><h1>Welcome to my GitHub profile!</h1><p><i>yowza!</i><br><small>soon: me on <a>gradgit</a></small></p></div>
+<div align="center"><h1>welcome to my gh profile!</h1><p><i>yowza!<br>soon: me on <a>gradgit</a>?</i></p></div>
 
-## Badges
+## badges
 ![Notepad++](https://img.shields.io/badge/Notepad++-grey.svg?logo=notepad%2B%2B&logoColor=black&labelColor=90e59a)
 ![Render](https://img.shields.io/badge/Render-grey.svg?logo=render&logoColor=black&labelColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-grey.svg?logo=inkscape&logoColor=black&labelColor=white)
@@ -18,7 +18,7 @@
 |![My stats](https://github-readme-stats.vercel.app/api?username=RixInGithub)|![Commonly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RixInGithub&layout=compact)|[![Discord Presence](https://lanyard.cnrad.dev/api/745189431547527168?showDisplayName=true&bg=c0ffa0&idleMessage=grad%20has%20no%20activity%E2%80%A6&hideTag=true&hideBadges=true&borderRadius=0&theme=light&ignoreAppId=%2C)](https://discord.com/users/745189431547527168)|
 |-|-|-|
 
-## Contribute to the global text file!
+## global text file!
 
 <!--HTXT-->
 ```
@@ -27,6 +27,6 @@ hHHhhhhh
 hH	h	h
 ```
 
-See [mods.md](/mods.md) to see your modifier key status.
+see [mods.md](/mods.md) to see your modifier key status.
 <table><tr align="center"><td><a href="https://github.com/RixInGithub/RixInGithub/issues/new?title=kbd:0&body=plz+press+create+%28the+action+might+take+a+moment%29">↹</a></td><td><a href="https://github.com/RixInGithub/RixInGithub/issues/new?title=kbd:1&body=plz+press+create+%28the+action+might+take+a+moment%29">Caps</a></td><td><a href="https://github.com/RixInGithub/RixInGithub/issues/new?title=kbd:2&body=plz+press+create+%28the+action+might+take+a+moment%29">Shft</a></td><td><a href="https://github.com/RixInGithub/RixInGithub/issues/new?title=kbd:3&body=plz+press+create+%28the+action+might+take+a+moment%29">⇽</a></td></tr><tr align="center"><td colspan="2"><a href="https://github.com/RixInGithub/RixInGithub/issues/new?title=kbd:4&body=plz+press+create+%28the+action+might+take+a+moment%29">h</a></td><td colspan="2"><a href="https://github.com/RixInGithub/RixInGithub/issues/new?title=kbd:5&body=plz+press+create+%28the+action+might+take+a+moment%29">Enter</a></td></tr></table>
 <!--HTXT-->
