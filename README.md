@@ -1,4 +1,4 @@
-<div align="center"><h1>Welcome to my GitHub profile!</h1><p><i>Treat yourself like at home...</i></p></div>
+<div align="center"><h1>Welcome to my GitHub profile!</h1><p><i>yowza!</i><br><small>soon: me on <a>gradgit</a></small></p></div>
 
 ## Badges
 ![Notepad++](https://img.shields.io/badge/Notepad++-grey.svg?logo=notepad%2B%2B&logoColor=black&labelColor=90e59a)
